@@ -9,7 +9,7 @@ The goal is to predict whether a credit card transaction is fraudulent based on 
 ## Key Steps
 - **Data Preprocessing**: Cleaned the dataset and performed feature engineering using **Pandas** and **NumPy**.
 - **Data Balancing**: Applied **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the imbalanced dataset and improve model performance.
-- **Modeling**: Built and trained multiple classification models, including **Support Vector Machine (SVM)** and **Random Forest**, optimizing them with **Cross- 
+- **Modeling**: Built and trained multiple classification models, including **Support Vector Machine (SVM)** , optimizing them with **Cross- 
    Validation**.
 - **Model Evaluation**: Achieved an **84% accuracy** in predicting fraudulent transactions while minimizing false positives.
 
