@@ -16,3 +16,13 @@ The goal is to predict whether a credit card transaction is fraudulent based on 
 ## Tools and Technologies
 - **Python** (for model development and data manipulation)
 - **Scikit-learn** (for machine learning al
+- **Scikit-learn** (for machine learning algorithms)
+- **Pandas** and **NumPy** (for data processing)
+- **Power BI** (for visualizing fraud detection insights)
+- **SMOTE** (for data balancing)
+- **Matplotlib** (for data visualization)
+
+## Outcome
+- Successfully detected fraudulent transactions with **84% accuracy**.
+- Reduced false positives and improved fraud detection efficiency.
+- Visualized fraud trends through a **Power BI dashboard**.
