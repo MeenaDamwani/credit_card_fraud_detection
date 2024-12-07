@@ -15,7 +15,7 @@ The goal is to predict whether a credit card transaction is fraudulent based on 
 The **Power BI Dashboard** file is too large to include directly in the repository. It is available in the **Releases** section of this repository.
 
 - Navigate to the **Releases** section to download the Power BI file.
-- [Click here to go to Releases](https://github.com/credit_card_fraud_detection/releases)
+- [Click here to go to Releases](https://github.com/MeenaDamwani/credit_card_fraud_detection/tags)
   
 ## Key Steps
 - **Data Preprocessing**: Cleaned the dataset and performed feature engineering using **Pandas** and **NumPy**.
